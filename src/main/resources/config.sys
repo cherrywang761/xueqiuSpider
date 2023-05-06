@@ -1,0 +1,10 @@
+## JVM配置文件
+## '##' 为注释符号，代表此行被忽略
+
+## 并行流底层线程数
+java.util.concurrent.ForkJoinPool.common.parallelism = 4
+cookies = device_id=3727853c06a0e9b1f5a7c61b6625e3e6; s=c7157i2px2; Hm_lvt_1db88642e346389874251b5a1eded6e3=1681438335,1681711433,1682566970,1683256781; acw_tc=276077a616833586856636600e67d418cb0a74248a3180ae0d81f7bb4c6806; xq_a_token=6a819638db20447e4de4d85bd3012ccda0636df9; xqat=6a819638db20447e4de4d85bd3012ccda0636df9; xq_id_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOjY5OTQ2MDM2MDAsImlzcyI6InVjIiwiZXhwIjoxNjg1OTUwODEyLCJjdG0iOjE2ODMzNTg4MTIwMDgsImNpZCI6ImQ5ZDBuNEFadXAifQ.MFt52BKod3BGUAKrLx1ZDYVLO_cLFTeEAqEj5vr60w-PnWOdBlCj-3hlIIRjcH1Wk5xgMmxBiDZYTOjMGE33hVp3JkOMgM7oAyz2Cs15gnfnyUIXRPtZs1ZUZZVvrg5_2oLO-a0z8rl-vfNvrQDNV8vTv82Rj-ebiIYvhTV_8X4zGw-ZqpXlhDP96nlkKA7o3lRLHzrC1PV6_wZBxiCO9yF63exET9vYRuHE2LLh3Mz20PnGFeFwCturR_Fu0JynB99crPeeePX3hcySSXV78esf4qIXtodGulbO2XdyvsvJR-UkAdnTCw788tw4x9Aj50ZYHKOaIjeHDZlg4w2Z6g; xq_r_token=e4e40a0c95fb63ee5578be92a62191a78cd983b9; xq_is_login=1; u=6994603600; is_overseas=0; Hm_lpvt_1db88642e346389874251b5a1eded6e3=1683359176
+## areaCode = 86 可选 默认国内
+## userID = 186xxxxxxxx
+## password = xxxx
+## rememberMe = true 可选 默认开启
